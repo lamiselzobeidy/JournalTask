@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Special+Elite&display=swap");
+
+html {
+  background-color: rgb(221, 223, 223) !important;
+}
+.RegistrationPage {
+  height: 100vh !important;
+  background-image: url("./jrbg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  font-family: "Special Elite", cursive;
+  text-align: center;
+  color: black;
+  font-size: 70px !important;
+}
+.RegistrationForm {
+  color: rgb(233, 233, 233);
+  background-color: rgba(19, 18, 18, 0.8);
+  border: solid rgb(19, 18, 18);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+Button {
+  font-weight: bold;
+  color: #f3ffbd !important;
+  border-color: rgb(201, 44, 44) !important;
+  background-color: rgb(201, 44, 44) !important;
+}
+.FormInput {
+  background-color: #f3ffbd !important;
+}
